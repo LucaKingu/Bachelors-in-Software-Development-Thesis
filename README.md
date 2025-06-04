@@ -14,5 +14,3 @@ By examining how **deep reinforcement learning (DRL)** agents interact with obje
 ## 🎥 Demonstration: Emergent Behavior in Action
 
 [![Watch the video](https://img.youtube.com/vi/tp8pi4UB_aA/0.jpg)](https://youtu.be/tp8pi4UB_aA)
-
-🔗 [Click here to watch on YouTube](https://youtu.be/tp8pi4UB_aA)
