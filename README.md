@@ -15,4 +15,7 @@ By examining how **deep reinforcement learning (DRL)** agents interact with obje
 
 [![Watch the video](https://img.youtube.com/vi/tp8pi4UB_aA/0.jpg)](https://youtu.be/tp8pi4UB_aA)
 
+The seeker is able to go through the wall by positioning itself correctly, this is because it exploits the game engine through a fixed floating-point error which I had not seen as a deveolper.
+
+---
 ## Any futher information such as environment set-up, methodologies, analysis etc can be found in the thesis itself via 'Thesis.pdf'! Do not hesitate to contact me should you have any questions or professional feedback as I am always looking to grow. 😁  ##
