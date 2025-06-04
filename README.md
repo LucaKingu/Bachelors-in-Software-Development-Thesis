@@ -2,7 +2,7 @@
 
 ## 🧠 Thesis Overview
 
-This thesis explores the potential of **machine learning in gaming environments**, particularly focusing on:
+This thesis explores the potential use of **machine learning in gaming environments**, particularly focusing on:
 
 - 🕹️ Non-Player Characters (NPCs)
 - 🧪 Automated game testing
@@ -15,4 +15,4 @@ By examining how **deep reinforcement learning (DRL)** agents interact with obje
 
 [![Watch the video](https://img.youtube.com/vi/tp8pi4UB_aA/0.jpg)](https://youtu.be/tp8pi4UB_aA)
 
-## Any futher information such as environment set-up, methodologies, analysis etc can be found in the thesis itself via 'Thesis.pdf'! Do not hesitate to contact me should you have any questions or professional feedback as I am always looking to grow 😁  ##
+## Any futher information such as environment set-up, methodologies, analysis etc can be found in the thesis itself via 'Thesis.pdf'! Do not hesitate to contact me should you have any questions or professional feedback as I am always looking to grow. 😁  ##
