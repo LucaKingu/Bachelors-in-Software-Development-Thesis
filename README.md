@@ -1,5 +1,7 @@
 # 🎮 Investigating Emergent Behaviours in Deep Reinforcement Learning Agents Through Curriculum-Based Object Interaction
 
+# Grade: 88 - A
+
 ## 🧠 Thesis Overview
 
 This thesis explores the potential use of **machine learning in gaming environments**, particularly focusing on:
