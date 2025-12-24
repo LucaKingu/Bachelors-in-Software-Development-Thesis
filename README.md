@@ -1,6 +1,6 @@
 # 🎮 Investigating Emergent Behaviours in Deep Reinforcement Learning Agents Through Curriculum-Based Object Interaction
 
-# Grade: 88 - A
+# Grade: A
 
 ## 🧠 Thesis Overview
 
